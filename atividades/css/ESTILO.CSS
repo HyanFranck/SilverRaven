@@ -1,0 +1,68 @@
+
+#tabela1{
+
+    background-color: black;
+}
+
+.aa{
+    background-color: black;
+    color: white;
+}
+
+#aaa{
+    background-image: url("../imagens/img1.jpg");
+    background-repeat: no-repeat ;
+}
+#aaa:hover{
+        background-image: url(../imagens/img2.jpg) ;
+}
+.tabela{
+    width: 90%;
+    border: 3px solid white;
+    text-align: center;   
+}
+td,tr{
+    padding: 1%;
+    border: 3px solid white;
+    text-align: center;   
+}
+/*Não Metais*/
+.NM{
+background-color: #00ff6a;
+}
+/*Metais Alcalinos*/
+.MA{
+background-color: #ff9f43;
+}
+/*SemiMetais*/
+.SM{
+background-color: #1dd1a1;
+}
+/*Outros Metais*/
+.OM{
+background-color: #c8d6e5;
+}
+/*Lantanídios*/
+.L{
+background-color: #48dbfb;
+}
+/*Gases Nobres*/
+.GN{
+background-color: #0abde3;
+}
+/*Metais Alcalinos Terrosos*/
+.MAT{
+background-color: #feca57;
+}
+/*Halogênios*/
+.H{
+background-color: #008cff;
+}
+/*Metais de Transição*/
+.MT{
+background-color: #ff6b6b;
+}
+/*Actinídois*/
+.AT{
+background-color: #ff9ff3;
+}
